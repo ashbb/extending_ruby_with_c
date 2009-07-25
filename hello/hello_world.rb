@@ -1,0 +1,2 @@
+require 'say'
+Say.hello
