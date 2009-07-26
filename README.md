@@ -229,4 +229,5 @@ References
 ----------
 - [Tutorial of Extending Ruby](http://ruby.gfd-dennou.org/tutorial/ruby-ext/) (in Japanese)
 - [Install Ruby-pg on Windows](http://ronspace.cocolog-nifty.com/blog/2009/02/ruby-pg-windows.html) (in Japanese)
+- Programming Ruby - [Extending Ruby](http://www.rubycentral.com/book/ext_ruby.html) (I havn't read yet, though.)
 
